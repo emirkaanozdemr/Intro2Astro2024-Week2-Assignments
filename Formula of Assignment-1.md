@@ -1,4 +1,4 @@
-$\[ F = \frac{G \cdot M_1 \cdot M_2}{r^2} \]$
+\[ F = \frac{G \cdot M_1 \cdot M_2}{r^2} \]
 
 where:
 
