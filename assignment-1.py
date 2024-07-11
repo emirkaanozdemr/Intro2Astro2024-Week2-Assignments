@@ -1,4 +1,4 @@
-## Problem: Calculate the gravitational force between a 3 solar mass star and its 10 Jupyter mass planet 2 au away.
+## Problem: Calculate the gravitational force between a 3 solar mass star and its 10 Jupiter mass planet 2 au away.
 
 import astropy.units as u
 import astropy.constants as c
